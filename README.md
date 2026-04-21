@@ -12,7 +12,7 @@ Blinkit operates across multiple outlets, product categories, and locations. How
 
 * Sales performance across outlet types and sizes
 * Product category contribution to revenue
-* Customer preferences and buying behavior
+* Customer preferences and buying behaviour
 * Key trends impacting business growth
 
 This project addresses these challenges by building a comprehensive business reporting dashboard.
@@ -31,8 +31,8 @@ This project addresses these challenges by building a comprehensive business rep
 ## 📊 Key KPIs
 
 * **Total Sales:** $1.20M
-* **Average Sales per Item**
-* **Average Customer Rating**
+* **Average Sales per Item** $141
+* **Average Customer Rating** 3.9
 * **Total Number of Items Sold:** 8,523
 
 ---
@@ -51,13 +51,11 @@ This project addresses these challenges by building a comprehensive business rep
 * Interactive filters for outlet size, location, and product category
 * KPI cards for quick performance overview
 * Category-wise and outlet-wise sales analysis
-* Trend analysis across years
-* Dynamic metric selection using slicers
+* Trend analysis across years* Dynamic metric selection using slicers
 
 ---
 
 ## 🔍 Key Business Insights
-
 ### 📌 Sales Performance
 
 * Total revenue generated is **$1.20M**
@@ -108,13 +106,3 @@ This project addresses these challenges by building a comprehensive business rep
 ![Dashboard](https://github.com/user-attachments/assets/2bb44b34-c6cd-43e4-a70f-6bf70e2ab8bf)
 
 ---
-
-## 🔗 GitHub Repository
-
-👉 https://github.com/sumitraut91/Blinkit-Sales-Analysis-Power-BI-Dashboard
-
----
-
-## 📬 Contact
-
-Feel free to connect with me for feedback or collaboration.
